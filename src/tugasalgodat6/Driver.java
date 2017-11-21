@@ -11,6 +11,6 @@ public class Driver {
             x.insert(in.nextInt());
             x.place(x.root);
         }
-        x.toString();
+        System.out.println(x.toString());
     }
 }
